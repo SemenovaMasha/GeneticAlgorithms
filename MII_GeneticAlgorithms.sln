@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28010.2050
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MII_GeneticAlgorithms", "MII_GeneticAlgorithms\MII_GeneticAlgorithms.csproj", "{C809CC20-27DE-43A4-86BA-FE8839A0C25F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C809CC20-27DE-43A4-86BA-FE8839A0C25F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C809CC20-27DE-43A4-86BA-FE8839A0C25F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C809CC20-27DE-43A4-86BA-FE8839A0C25F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C809CC20-27DE-43A4-86BA-FE8839A0C25F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {24BF9CA6-83EF-44B1-9223-9BF60CC87FFD}
+	EndGlobalSection
+EndGlobal
